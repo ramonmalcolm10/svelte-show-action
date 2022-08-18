@@ -1,4 +1,4 @@
-# svelte-show
+# svelte-show-action
 
 Svelte `svelte-show-action` is the equivalent of `v-show` in `vuejs`, or `ng-show` in `angularjs`. `svelte-show-action` will hide the element without adding any div block or destroying the component.
 ## Usage
